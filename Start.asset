@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79dce3b67f1388c4ba161742d6c0fa99, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  gameText: Where am I am beach on a moon? Should I go left to look for my ship or
+    right and look for a settlement?
+  otherStates:
+  - {fileID: 11400000, guid: ab10b81d30171e041b393b04377d3484, type: 2}
+  - {fileID: 11400000, guid: 513e958daf40ba149bf41cf26606617d, type: 2}
